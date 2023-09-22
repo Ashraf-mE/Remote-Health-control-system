@@ -3,11 +3,11 @@
 #include <PubSubClient.h>
 
 #define FIREBASE_HOST "remote-health-monitor-b1a62-default-rtdb.firebaseio.com" //https://remote-health-monitor-b1a62-default-rtdb.firebaseio.com/
-#define WIFISSID "ashraf754"                         // Put your WifiSSID here
-#define PASSWORD "ashraf123"                         // Put your wifi password here
+#define WIFISSID {wifissid}                        // Put your WifiSSID here
+#define PASSWORD {wifiPassword}                         // Put your wifi password here
 #define TOKEN {UBIDOTS-Token}   // Ashraf API code: {UBIDOTS-Code}        // Put your Ubidots' TOKEN
 #define MQTT_CLIENT_NAME "myecgsensor"               // MQTT client Name, please enter your own 8-12 alphanumeric character ASCII string;
-#define FIREBASE_Authorization_key "9qlV5sXOfxTETB2dJuAuhS34yD0UlWFKKpjJJxtS"
+#define FIREBASE_Authorization_key {FIREBASE Authorization Key}
 FirebaseData firebaseData;
 FirebaseJson json;
 
