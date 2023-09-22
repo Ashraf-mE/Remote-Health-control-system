@@ -1,0 +1,21 @@
+Intro:
+
+- Heart rate is an important indicator of our overall health.
+
+- The ability to feel our heart rate throughout your body is a       	potential way for doctors to diagnose medical conditions.
+
+- A normal heart rate is usually stated as 60 to 100 beats per minute.
+
+Why project?
+
+> Our project helps in recording and hearing the heart rate of the patient without the noise arised by the subject’s dress or some other air obstruction.
+
+> The recording also helps for the physicians to hear the recordings of the subject if necessary.
+
+> Its also very beneficial during the pandemic period as it reduces the contact of the patient and the doctor and increases the proximity between the doctor and the patient.
+
+> Interchangeable chest pieces avoid infection and maintain hygiene.
+
+> Very user friendly whereas the traditional way of heart auscultation requires both skill and experience. 
+
+
